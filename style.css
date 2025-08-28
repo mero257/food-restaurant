@@ -91,7 +91,7 @@ cursor: pointer;
         align-items: center;
         gap: 50px;
     }
-    .i{
+    .dropdown .i{
         position: absolute;
         right: 0;
         top: -5px;
